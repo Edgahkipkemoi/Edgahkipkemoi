@@ -3,7 +3,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Edgah-kipkemoi&color=brightgreen)
 
-## :rainbow: About Me
+## :🐼: About Me
 
 I'm a passionate and self-driven software developer with a love for problem-solving and creating innovative solutions. My journey in the world of coding has been an exciting one, and I'm always eager to learn and explore new technologies.
 
@@ -23,6 +23,8 @@ Here are some of the technologies and tools I'm familiar with:
 
 
 ## :trophy: Achievements and Certifications
+I'm always open to contributions and feedback. If you find any issues in my projects or have suggestions for improvement, please create an issue or submit a pull request. Your feedback is valuable to me!
+
 
 - [Certification Name](credential.net/fcbfe2fa-b126-4714-95a0-430fd90f9bb8#gs.3q9c51)
 
@@ -35,3 +37,5 @@ Let's connect and collaborate! Feel free to reach out to me on:
 - [Email ](kipkemoiedgah@gmail.com)
 
 ## :pray: Contributions and Feedback
+I'm always open to contributions and feedback. If you find any issues in my projects or have suggestions for improvement, please create an issue or submit a pull request. Your feedback is valuable to me!
+
