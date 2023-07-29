@@ -30,9 +30,9 @@ Here are some of the technologies and tools I'm familiar with:
 
 Here are some of the projects I've worked on:
 
-1. **[Mobile](https://github.com/Edgahkipkemoi/mobile.git)** - It is designed and developed with a primary focus on delivering an optimal user experience on mobile devices and on desktop. It prioritizes responsive design elements and ensures that the site's layout, content, and functionality seamlessly adapt to smaller screens and bigger screens.It helps businesses reach a broader audience and stay ahead in the digital landscape.Build with HTML and CSS.
+1. **[Mobile](https://github.com/Edgahkipkemoi/mobile.git)** -Mobile Website is a dynamic and visually stunning responsive website designed to provide an exceptional user experience on both mobile devices and desktops. With a focus on seamless adaptability to various screen sizes, it ensures users can easily access and interact with the content. The project empowers businesses to expand their digital reach and engage with a broader audience effectively. Built using HTML, CSS, and JavaScript, it showcases modern design principles and smooth user interactions, enhancing the overall browsing experience.
 
-2. **[To do List ](https://github.com/Edgahkipkemoi/To-do-list.git)** - A to-do list is a simple and effective tool that allows individuals to organize and prioritize tasks in a clear and systematic manner. It allows users to note down their daily, weekly, or long-term tasks, providing a visual roadmap to manage and accomplish their goals efficiently.Build with Javascript,HTML and CSS.
+2. **[To do List ](https://github.com/Edgahkipkemoi/To-do-list.git)** - To-Do List Application is a robust task management tool that enables users to efficiently organize and prioritize their daily, weekly, or long-term tasks. With an intuitive user interface, users can easily add, update, and mark tasks as complete. The application provides a visual roadmap to help users stay focused on accomplishing their goals. Developed using Javascript,HTML,CSS .It offers real-time data synchronization and seamless task tracking across devices. Additionally, the app incorporates user authentication to ensure data security and privacy.
 
 
 
