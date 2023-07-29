@@ -20,6 +20,15 @@ Here are some of the technologies and tools I'm familiar with:
 - **Backend:** [Frameworks, Databases, etc.]
 - **Tools & Others:** [Version Control, Build Tools, etc.]
 
+## 🚧 Projects
+
+Here are some of the projects I've worked on:
+
+1. **[Mobile](https://github.com/Edgahkipkemoi/mobile.git)** - I made a responsive website using html and css .I also add linters.
+
+
+2. **[To do List ](https://github.com/Edgahkipkemoi/To-do-list.git)** - Made a To do list project where you can add,edit and delete task.
+
 
 
 ## :trophy: Achievements and Certifications
