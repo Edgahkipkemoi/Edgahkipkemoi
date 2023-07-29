@@ -1,6 +1,10 @@
 ### Hi there 👋
 # Hello, I'm [Edgah-kipkemoi] :wave:
 
+📍 Location: [Nairobi, Kenya ]
+📧 Email: [kipkemoiedgah@gmail.com]
+💼 Job Title: [Software Developer]
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Edgah-kipkemoi&color=brightgreen)
 
 ## :🐼: About Me
