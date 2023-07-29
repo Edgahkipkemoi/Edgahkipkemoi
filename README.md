@@ -24,11 +24,11 @@ Here are some of the technologies and tools I'm familiar with:
 
 Here are some of the projects I've worked on:
 
-1. **[Mobile](https://github.com/Edgahkipkemoi/mobile.git)** - It is designed and developed with a primary focus on delivering an optimal user experience on mobile devices and on desktop. It prioritizes responsive design elements and ensures that the site's layout, content, and functionality seamlessly adapt to smaller screens and bigger screens.Made using html and css .
+1. **[Mobile](https://github.com/Edgahkipkemoi/mobile.git)** - It is designed and developed with a primary focus on delivering an optimal user experience on mobile devices and on desktop. It prioritizes responsive design elements and ensures that the site's layout, content, and functionality seamlessly adapt to smaller screens and bigger screens.Build with HTML and CSS.
   
 
 
-3. **[To do List ](https://github.com/Edgahkipkemoi/To-do-list.git)** - A to-do list is a simple and effective tool that helps individuals organize and prioritize tasks in a clear and systematic manner. It allows users to jot down their daily, weekly, or long-term tasks, providing a visual roadmap to manage and accomplish their goals efficiently.Made using javascript,html and css.
+3. **[To do List ](https://github.com/Edgahkipkemoi/To-do-list.git)** - A to-do list is a simple and effective tool that helps individuals organize and prioritize tasks in a clear and systematic manner. It allows users to jot down their daily, weekly, or long-term tasks, providing a visual roadmap to manage and accomplish their goals efficiently.Build with Javascript,HTML and CSS.
 
 
 
