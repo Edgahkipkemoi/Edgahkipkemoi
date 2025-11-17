@@ -5,7 +5,7 @@
 
 📧 Email: [kipkemoiedgah@gmail.com]
 
-💼 Job Title: [Software Developer]
+Software Developer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Edgah-kipkemoi&color=brightgreen)
 
